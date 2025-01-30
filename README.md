@@ -16,4 +16,10 @@ The performance of a recommendation engine will significantly impact the revenue
 
 Designing a recommender from scratch is a time-consuming task.  In this assignment, you are expected to explore the data and create features that will be used to build the recommender. 
 
+## Output Solution
+
+The final output submission is created under repository :
+1) python code file.ipynb include the python code file to explore the data and create features that will be used to build the recommender.
+
+## Submitted by Meenakshi Sharma 
  
